@@ -3,7 +3,9 @@
 
 ### Project Description ###
 
-This repository contains the Power BI report files that I did as part of the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022).
+This repository contains the Power BI report files that I did as part of the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022). I went on vacation in the middle so did not do the entire project but it was fun to participate in!
+
+You can find the associated tweets at: [@BolesData](https://twitter.com/BolesData/)
 
 The Power BI reports are contained in the **Power BI Reports Folder** and the associated PDF Reports are contained in the **PDF Reports Folder**.
 
